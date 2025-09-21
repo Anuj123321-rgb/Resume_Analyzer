@@ -1,0 +1,83 @@
+JANE SMITH
+Senior Software Engineer
+Email: jane.smith@email.com
+Phone: (555) 123-4567
+Location: San Francisco, CA
+LinkedIn: linkedin.com/in/janesmith
+Website: janesmith.dev
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 8+ years of experience in full-stack development, specializing in Python, JavaScript, and cloud technologies. Proven track record of delivering scalable applications and leading development teams. Strong background in machine learning and data science with expertise in building AI-powered solutions.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, Java, C++, SQL, R, Go
+Frameworks: Django, React, Node.js, Flask, Spring Boot, Angular, Vue.js
+Databases: PostgreSQL, MongoDB, Redis, MySQL, Elasticsearch
+Cloud Platforms: AWS, Azure, Google Cloud Platform
+DevOps: Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform
+Machine Learning: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+Tools: Git, Jira, Confluence, VS Code, IntelliJ IDEA
+
+WORK EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | Jan 2021 - Present
+- Led development of microservices architecture serving 2M+ users
+- Implemented CI/CD pipelines reducing deployment time by 70%
+- Mentored 5 junior developers and conducted code reviews
+- Technologies: Python, Django, AWS, Docker, Kubernetes
+- Achieved 99.9% uptime for critical services
+- Reduced server costs by 40% through optimization
+
+Software Engineer | StartupXYZ | Jun 2019 - Dec 2020
+- Developed RESTful APIs using Python and Flask
+- Built responsive web applications with React and Node.js
+- Collaborated with cross-functional teams in agile environment
+- Improved application performance by 50% through optimization
+- Implemented automated testing increasing code coverage to 90%
+
+Junior Developer | WebSolutions | Jan 2018 - May 2019
+- Created and maintained web applications using JavaScript and PHP
+- Participated in all phases of software development lifecycle
+- Gained experience with version control and testing practices
+- Contributed to 15+ client projects
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University | 2016 - 2018
+GPA: 3.8/4.0
+Specialization: Machine Learning and Artificial Intelligence
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2012 - 2016
+GPA: 3.6/4.0
+Magna Cum Laude
+
+PROJECTS
+E-commerce Platform | 2020 - 2021
+- Full-stack application with 50K+ users
+- Technologies: React, Node.js, MongoDB, AWS
+- Implemented real-time chat and payment processing
+- URL: github.com/janesmith/ecommerce-platform
+
+Data Analytics Dashboard | 2019 - 2020
+- Real-time visualization tool for business metrics
+- Technologies: Python, D3.js, PostgreSQL, Redis
+- Processed 1M+ data points daily
+- URL: github.com/janesmith/analytics-dashboard
+
+Machine Learning Model | 2018 - 2019
+- Predictive model for customer churn
+- Technologies: Python, TensorFlow, Scikit-learn
+- Achieved 85% accuracy in predictions
+- URL: github.com/janesmith/ml-churn-prediction
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Professional | 2022
+Google Cloud Professional Developer | 2021
+Certified Kubernetes Administrator | 2020
+Microsoft Azure Fundamentals | 2019
+
+LANGUAGES
+English (Native)
+Spanish (Fluent)
+French (Intermediate)

@@ -1,0 +1,22 @@
+# Resume Analyzer Dependencies
+
+# PDF parsing
+PyPDF2>=2.0.0
+pdfminer.six>=20221105
+
+# DOCX parsing
+python-docx>=0.8.11
+
+# RTF parsing
+striprtf>=0.0.15
+
+# UI
+tkinter  # Usually included with Python
+
+# Data processing
+nltk>=3.7
+
+# Dashboard dependencies
+streamlit>=1.28.0
+plotly>=5.0.0
+pandas>=1.5.0

@@ -1,0 +1,74 @@
+{
+  "filename": "sample_resume.txt",
+  "parsed_date": "2025-09-21T15:05:37.014329",
+  "basic_info": {
+    "name": "John Smith",
+    "email": "john.smith@email.com",
+    "phone": null,
+    "location": "San Francisco, CA",
+    "linkedin": null,
+    "website": null
+  },
+  "summary": "Experienced software engineer with 5+ years of experience in full-stack development, specializing in Python, JavaScript, and cloud technologies. Proven track record of delivering scalable applications and leading development teams. TECHNICAL SKILLS Programming Languages: Python, JavaScript, Java, C++ Frameworks: Django, React, Node.js, Flask Databases: PostgreSQL, MongoDB, Redis Cloud Platforms: AWS, Azure, Google Cloud Tools: Git, Docker, Kubernetes, Jenkins",
+  "skills": [
+    "AWS",
+    "Agile",
+    "Azure",
+    "C",
+    "C++ Frameworks: Django",
+    "CI/CD",
+    "Django",
+    "Docker",
+    "Flask",
+    "Flask Databases: PostgreSQL",
+    "Git",
+    "Google Cloud",
+    "Google Cloud Tools: Git",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Kubernetes",
+    "Microservices",
+    "MongoDB",
+    "Node.js",
+    "PostgreSQL",
+    "Programming Languages: Python",
+    "Python",
+    "React",
+    "Redis",
+    "Redis Cloud Platforms: AWS"
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley | 2014",
+      "degree": "2018",
+      "field": null,
+      "start_date": "2014",
+      "end_date": "2018",
+      "gpa": null,
+      "location": "California, Berkeley",
+      "description": null
+    }
+  ],
+  "experience": [],
+  "projects": [],
+  "certifications": [],
+  "languages": [],
+  "analysis": {
+    "skill_scores": {
+      "technical": 3.5999999999999996,
+      "soft": 0.0,
+      "domain": 0.0
+    },
+    "experience_score": 0.0,
+    "education_score": 4.0,
+    "overall_score": 1.92,
+    "recommendations": [
+      "Your skills section is good, but could be improved by adding more specialized skills relevant to your target role.",
+      "Consider adding more soft skills to balance your technical expertise.",
+      "Add work experience to your resume, even if it's internships or volunteer work.",
+      "Specify your field of study at University of California, Berkeley | 2014.",
+      "Your resume needs significant improvement. Focus on adding more detailed work experiences and skills."
+    ]
+  }
+}
